@@ -36,7 +36,7 @@ I build and scale digital products in **regulated fintech**, with experience acr
 
 ### B2B / 0→1 / Team Leadership
 
-- [SIEM platform: pilot → production](./product-cases/04-siem-platform.md)
+- [SIEM platform: pilot → production](04-siem-platform.md)
 
 ## Current product
 
