@@ -32,7 +32,7 @@ I build and scale digital products in **regulated fintech**, with experience acr
 - [Registry-based issuance for children's cards](./product-cases/01-registry-children-cards.md)
 - [Card processing migration](./product-cases/02-processing-migration.md)
 - [Foreign birth certificate scenario](./product-cases/03-foreign-birth-certificates.md)
-- [B2C product experiments and A/B testing](./product-cases/05-product-experiments-ab.md)
+- [B2C product experiments and A/B testing](05-product-experiments-ab.md)
 
 ### B2B / 0→1 / Team Leadership
 
