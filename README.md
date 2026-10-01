@@ -48,7 +48,7 @@ I am building LYMROX as an AI-powered career intelligence product that helps peo
 
 Current stage: MVP, early demand validation, accelerator track.
 
-→ [LYMROX on GitHub](https://github.com/elenatito/LYMROX)
+→ [LYMROX project: closed development on GitHub — no access]
 
 ## Background
 
