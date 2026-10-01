@@ -1,84 +1,66 @@
-# 👋 Привет, я Елена Титова
+# Elena Titova — Product Leader
 
-**Product Leader** с 7+ годами опыта в управлении сложными продуктами в **B2C, B2B и B2G** сегментах.  
-Строю data-driven продукты, которые растут, масштабируются и приносят бизнесу измеримый результат.
+Product Leader with 4+ years in Product Management & Product Leadership and 9+ years in managing complex projects and business initiatives.
 
----
+I build and scale digital products in **regulated fintech**, with experience across B2C, B2B/B2G, product discovery, customer experience, analytics, complex integrations and 0→1 launches.
 
-## 🚀 Ключевые результаты
+## What I do best
 
-| Продукт / Задача | Результат |
-|----------------|-----------|
-| **Детская дебетовая карта (Сбер, B2C)** | Рост оформлений на **26%**, активаций до **40%** (выше рынка), открыт новый сегмент «дети иностранцев» |
-| **SIEM-платформа (кибербезопасность, B2B/B2G)** | 3 мажорных релиза, победа в тендерах **ПСБ, ЦППК**, производительность **+19%** |
-| **RPA-автоматизация** | Экономия **500+ человеко-часов** ежемесячно |
-| **Оптимизация заявок** | Ускорение обработки на **30%** |
-| **Масштабирование производства** | Рост мощности в **3.75 раза** (2 000 → 7 500 ед./мес), снижение брака на **17%** |
+- Product strategy, vision and roadmap
+- 0→1 launches and product transformation
+- Customer discovery, CJM and UX improvement
+- Product analytics, funnels and A/B testing
+- Cross-functional leadership and product team management
+- Regulated fintech: 115-FZ, 152-FZ, PCI DSS, payments and processing
+- Complex migrations and high-risk product change
+- AI/LLM product experimentation and market analysis
 
----
+## Selected results
 
-## 🛠 Что я умею (и применяю в продуктах)
+- **6+ million customers** — product leadership in a large-scale B2C fintech product
+- **+26% card issuance**, activation increased to **40%**
+- Launched a **registry-based issuance scenario for children's cards**, from product idea to production
+- Led **Way4 → ППРБ processing migration** in 6 months with **0 critical incidents** and no card reissue
+- Built a **10-person product team** and took a SIEM platform from pilot to production
+- Increased SIEM throughput from **16K to 19K events/sec**
+- Built **LYMROX**, an AI-powered career intelligence product, from concept to MVP
 
-### Продуктовые компетенции
-- Полный цикл: **Discovery → Стратегия → Roadmap → A/B тесты → Релизы → Пост-релизный анализ**
-- Приоритизация: **RICE, WSJF**, юнит-экономика, воронки, метрики
-- Работа с Legal, Compliance, кибербезопасностью, топ-менеджментом
+## Product cases
 
-### Инструменты и технологии
-`Agile` `Scrum` `Kanban` `Jira` `Confluence` `BPMN` `IDEF0` `UML`  
-`SQL` `Python` `A/B тесты` `Customer Development`  
-`Atlassian Stack` `MS Visio` `Markdown` `PRINCE2`
+### Fintech / Product Leadership
 
-### Языки
-- Русский — родной  
-- Английский — B2 (средне-продвинутый)  
-- Немецкий — B1 (средний)
+- [Registry-based issuance for children's cards](./product-cases/01-registry-children-cards.md)
+- [Card processing migration](./product-cases/02-processing-migration.md)
+- [Foreign birth certificate scenario](./product-cases/03-foreign-birth-certificates.md)
+- [B2C product experiments and A/B testing](./product-cases/05-product-experiments-ab.md)
 
----
+### B2B / 0→1 / Team Leadership
 
-## 🎓 Образование и развитие
+- [SIEM platform: pilot → production](./product-cases/04-siem-platform.md)
 
-- **MBA: Стратегия бизнеса и цифровые технологии** (МТУСИ, 2027)
-- **Python** (УЦ Профессионал, 2026)
-- **Введение в ИИ-агенты** (СберУниверситет, 2025)
-- **Основы проджект и продакт менеджмента** (Нетология, 2025)
-- **Основы архитектуры ИТ, безопасность данных** (СберУниверситет, 2023–2024)
+## Current product
 
----
+### LYMROX — AI Career Intelligence
 
-## 🔍 Сейчас я в поиске
+Founder & Product Lead.
 
-Я ищу роль **Senior Product Manager / Head of Product** в:
+I am building LYMROX as an AI-powered career intelligence product that helps people understand their market value, improve their positioning and make better career decisions.
 
-- Финтехе / банковских продуктах  
-- High-load B2C сервисах  
-- B2B / B2G технологических продуктах  
+Current stage: MVP, early demand validation, accelerator track.
 
-**Готова к:**  
-✅ Полной занятости  
-✅ Удалённой, гибридной работе или в офисе (Москва / Санкт-Петербург)  
-✅ Командировкам  
+→ [LYMROX on GitHub](https://github.com/elenatito/LYMROX)
 
----
+## Background
 
-## 📫 Как со мной связаться
+**17+ years** of professional experience.
 
-- **Email:** elenatitovamail@gmail.com  
-- **Телефон:** +7 (977) 596-18-17  
-- **Telegram:** [@lenatitov](https://t.me/lenatitov) 
-- **HH.ru:** [Ссылка на резюме](https://hh.ru/resume/721491a9ff099ee1ea0039ed1f736b62465348)
+**4+ years** in Product Management / Product Leadership.
 
----
+**9+ years** managing complex projects, teams and business initiatives.
 
-## 📌 Что здесь можно найти (планы по развитию профиля)
+Previous experience spans industrial engineering, defense / government projects, information security and fintech.
 
-- [ ] Репозиторий с шаблонами продуктовой документации (PRD, user stories, roadmap)  
-- [ ] Кейс по A/B тесту и выводам  
-- [ ] Pet-проекты на Python (анализ данных / автоматизация)  
-- [ ] Статьи о продуктовых метриках и подходах  
+## Contact
 
-> *GitHub для меня — не только код, но и пространство для продуктового мышления и прозрачной экспертизы.*
-
----
-
-⭐ *Если вы рекрутер или коллега — буду рада обсудить сотрудничество, совместные проекты или просто продуктовые вызовы.*
+- GitHub: [@elenatito](https://github.com/elenatito)
+- Email: elenatitovamail@gmail.com
